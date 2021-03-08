@@ -1,0 +1,17 @@
+{
+  "name": "week10teamactivity",
+  "version": "1.0.0",
+  "description": "cse341 week 10 team activity",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa Hull",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
